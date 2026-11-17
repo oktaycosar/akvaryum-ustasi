@@ -2,6 +2,14 @@
 
 Türkçe arayüzlü, Canvas tabanlı bir akvaryum ve balık besleme oyunu. Balıklarını besle ve büyüt, altın kabarcıklarını topla, yeni türler ve dekorlarla akvaryumunu geliştir.
 
+## Godot sürümü
+
+Godot'ta açılacak proje **[`godot/project.godot`](godot/project.godot)** dosyasıdır. Godot 4.7.2 ile test edildi. [Açma ve oynama rehberi](godot/README.md) · [Geliştirme planı](godot/GELISTIRME_PLANI.md).
+
+![Godot akvaryum sürümü](docs/godot-preview.png)
+
+Godot sürümü yerel kayıtla çevrimdışı çalışır. Aşağıdaki npm ve veritabanı adımları web sürümü içindir.
+
 ## Özellikler
 
 - Sekiz balık türü, büyüme ve seviye sistemi
