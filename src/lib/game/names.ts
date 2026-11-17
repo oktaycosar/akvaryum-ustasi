@@ -1,0 +1,28 @@
+// Cute Turkish default names for fish
+
+export const FISH_NAMES = [
+  'Boncuk',
+  'Pofuduk',
+  'Zıpzıp',
+  'Lale',
+  'Fıstık',
+  'Bulut',
+  'Turunç',
+  'Mercan',
+  'Zümrüt',
+  'Poyraz',
+  'Duman',
+  'Fındık',
+  'Çakıl',
+  'Mine',
+  'Küpe',
+  'Gofret',
+  'Pamuk',
+  'Yosun',
+  'Incila',
+  'Efe',
+  'Nazlı',
+  'Tuzu',
+  'Fırtına',
+  'Sedef',
+]
